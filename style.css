@@ -1,0 +1,68 @@
+body {
+    font-family: 'Merriweather', serif;
+    margin: 0px;
+
+}
+
+.top-banner {
+    background-image: url(images/shapes/cust01.png);
+    background-repeat: no-repeat;
+}
+
+section {
+    display: flex;
+    padding-bottom: 50px;
+}
+
+.red-color {
+    color: red;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.half-width {
+    width: 40%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 8%;
+
+}
+
+.image-class {
+    width: 40%;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
+p {
+    padding-bottom: 20px;
+    text-align: justify;
+}
+
+.link-linkdln {
+
+    text-decoration: none;
+    background-color: red;
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 400;
+    background-image: linear-gradient(rgb(235, 19, 19) rgb(238, 241, 35));
+    color: white;
+    font-weight: 700;
+}
+
+.background-02 {
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.half-width-02 {
+    width: 40%;
+    padding-left: 5%;
+    padding-right: 10%;
+    padding-top: 8%;
+
+}
