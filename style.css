@@ -126,13 +126,26 @@ h1 {
 }
 
 
+.bottom-section {
 
+    background-color: rgb(18, 16, 31);
+    text-align: center;
+    padding-top: 30px;
 
+    margin-top: 70px;
+}
 
+.gray-color {
+    color: gray;
+}
 
-
+.bottom-section p {
+    color: white;
+}
 
 
 footer p {
+    padding-top: 50px;
     text-align: center;
+    padding-bottom: 10px;
 }
