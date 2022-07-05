@@ -56,7 +56,7 @@ p {
 .background-02 {
     background-image: url(images/shapes/Frame\ 58.jpg);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
 }
 
 .half-width-02 {
